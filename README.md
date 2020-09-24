@@ -1,6 +1,6 @@
 # UFO Sightings with JavaScript
 
-## Overview of Project
+## Project Overview
 ### Purpose
 *Explain the purpose of this analysis*
 
