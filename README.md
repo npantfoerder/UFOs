@@ -2,7 +2,6 @@
 
 ## Project Overview
 ### Purpose
-*Explain the purpose of this analysis*
 Dana, a data journalist, decides to write about McMinnville, her hometown in Oregon which is famous for its UFO sightings. She has a JavaScript file filled with sighting information and needs help creating the following two things: a web page that will allow users to view the data, and a dynamic table that will present it. She'd like to provide an in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. 
 
 ## Results
