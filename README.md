@@ -18,12 +18,12 @@ Users can perform searches by entering one or more criteria into the 'Filter Sea
 <img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/city_shape_filter.png' width=700> 
 
 ## Summary
-*Describe one drawback of this new design and two recommendations for further development*
 ### Design Drawback
+- One drawback of this new design is that the dark background make the striped table much less noticeable. 
 
 ### Recommendations
-- 
-- 
+- For future development, Dana could consider adding a count of how many results are returned whenever a new search criteria is entered.
+- Another possibility would be to create a filter that searches for specific words in the 'Comment' column.
 
 #### Resources
 - Data Sources: data.js
