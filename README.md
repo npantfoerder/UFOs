@@ -25,6 +25,8 @@ Users can perform searches by entering one or more criteria into the 'Filter Sea
 - For future development, Dana could consider adding a count of how many results are returned whenever a new search criteria is entered.
 - Another possibility would be to create a filter that searches for specific words in the 'Comment' column.
 
+<hr>
+
 #### Resources
 - Data Sources: data.js
 - Software: JavaScript 1.7, Virtual Studio Code 1.48.2
