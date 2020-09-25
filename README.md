@@ -6,16 +6,16 @@ Dana, a data journalist, decides to write about her hometown (McMinnville, Orego
 
 ## Results
 ### Performing Searches
-Users can perform searches by entering criteria into the 'Filter Search' form. Each input box has a placeholder of an example search so that users know the format to use. When a user enters text into an input box and presses Enter or clicks anywhere else on the web page, the data table will automatically update to match the new criteria. One possible filtering process is outlined below.
+Users can perform searches by entering one or more criteria into the 'Filter Search' form. Each input box has a placeholder of an example search so that users know the format to use. When a user enters text into an input box and presses Enter or clicks anywhere else on the web page, the data table will automatically update to match the new criteria. One possible filtering process is outlined below.
 
 1. This is how the web page looks before entering any search criteria.
-<img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/no_filter.png' width=800> 
+<img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/no_filter.png' width=700> 
 
 2. After entering 'el cajon' into the city filter, the web page will look like this.
-<img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/city_filter.png' width=800> 
+<img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/city_filter.png' width=700> 
 
 3. Putting 'light' into the shape filter will give the following results.
-<img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/city_shape_filter.png' width=800> 
+<img src='https://github.com/npantfoerder/UFOs/blob/master/static/images/city_shape_filter.png' width=700> 
 
 ## Summary
 *Describe one drawback of this new design and two recommendations for further development*
